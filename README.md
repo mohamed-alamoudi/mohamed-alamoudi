@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Ahmed Al Amoudi
+# 👋 Hi, I'm Mohamed Al-Amoudi
 
 **Front-End Developer** | Bachelor's Degree in IT  
 An enthusiastic and detail-oriented front-end developer specializing in building clean, responsive, and user-friendly interfaces using HTML5, CSS3, and modern JavaScript.
