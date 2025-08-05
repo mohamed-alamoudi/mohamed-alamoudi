@@ -122,6 +122,25 @@ Passionate about crafting exceptional digital experiences through clean, respons
 
 ---
 
+<div align="center">
+  
+## 📈 GitHub Stats 
+
+<a href="https://https://github.com/mohamed-alamoudi">
+<img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-amoudi&show_icons=true&theme=radical&locale=en&hide_border=true&layout=compact" alt="khaled-amoudi" />
+</a>
+
+<a href="https://https://github.com/mohamed-alamoudi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaled-amoudi&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=khaled%20amoudi%27%20Github%20Stats" alt="khaled's GitHub Stats" />
+</a>
+
+<a href="https://https://github.com/mohamed-alamoudi">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaled-amoudi&theme=radical&hide_border=true)](https://github.com/khaled-amoudi" alt="khaled's GitHub Stats Graph"/>
+</a>
+<br><br>
+
+---
+
 ## 🎯 My Goal
 
 To deliver fully integrated front-end solutions that balance aesthetics, performance, and user experience. I’m here to help bring your digital vision to life with creativity and expertise.
