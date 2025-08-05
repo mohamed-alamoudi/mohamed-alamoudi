@@ -126,7 +126,7 @@ Passionate about crafting exceptional digital experiences through clean, respons
   
 ## 📈 GitHub Stats 
 
-<a href="https://https://github.com/mohamed-alamoudi">
+<a href="https://github.com/mohamed-alamoudi">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-alamoudi&theme=radical&hide_border=true)](https://github.com/mohamed-alamoudi" alt="mohamed's GitHub Stats Graph"/>
 </a>
 <br><br>
