@@ -102,18 +102,6 @@ Passionate about crafting exceptional digital experiences through clean, respons
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedamoudi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedamoudi&theme=react&hide_border=true&background=0D1117)
-
-</div>
-
----
-
 ## 🌐 Let's Connect & Collaborate
 
 <div align="center">
