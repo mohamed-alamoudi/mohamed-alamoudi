@@ -2,7 +2,6 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.h---
 
 ## 🎯 My Mission
 
@@ -25,10 +24,6 @@ _The future of web development is collaborative, innovative, and user-focused._
 
 ---
 
-**⭐ If you like my work, consider giving this repo a star!**
-
-</div>com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI%2FUX+Enthusiast;Clean+Code+Advocate;Always+Learning+New+Things)
-
 </div>
 
 **🎯 Front-End Developer** | **🎓 Bachelor's Degree in IT**  
@@ -49,7 +44,6 @@ Passionate about crafting exceptional digital experiences through clean, respons
 
 </div>
 
-> _"Code is like humor. When you have to explain it, it's bad."_ - Building intuitive experiences that speak for themselves.
 
 ---
 
