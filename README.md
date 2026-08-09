@@ -110,7 +110,7 @@ Passionate about crafting exceptional digital experiences through clean, respons
 
 ### 🔗 Find Me Online
 
-[![Website](https://img.shields.io/badge/Portfolio-mohamedamoudi.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamedamoudi.me)
+[![Website](https://img.shields.io/badge/Portfolio-mohamedamoudi.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamedamoudi.dev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+972597772385)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.7.alamoudi@gmail.com)
 
